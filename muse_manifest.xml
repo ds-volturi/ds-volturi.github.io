@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ds-volturi.github.io.ru" resolutions="1x" timestamp="1518790768277">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ds-volturi.github.io" resolutions="1x" timestamp="1518792785088">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="3998460307" ref="устав:вступить-к-нам:магазин:index:база-знаний"/>
-    <file name="_____.css" crc="4018458299" ref="устав"/>
-    <file name="________-_-___.css" crc="511218899" ref="вступить-к-нам"/>
-    <file name="_______.css" crc="4231972912" ref="магазин"/>
+    <file name="master_______-a.css" crc="4270667129" ref="устав:вступить-к-нам:магазин:index:база-знаний"/>
+    <file name="_____.css" crc="143416298" ref="устав"/>
+    <file name="________-_-___.css" crc="519994035" ref="вступить-к-нам"/>
+    <file name="_______.css" crc="38607691" ref="магазин"/>
     <file name="index.css" crc="45546824" ref="index"/>
-    <file name="____-______.css" crc="103390034" ref="база-знаний"/>
+    <file name="____-______.css" crc="3861792222" ref="база-знаний"/>
   </folder>
   <folder name="assets">
     <file name="веб-сайт-1.muse" crc="86129437" seo="true" mt="1511583361000"/>
@@ -30,9 +30,9 @@
     <file name="u793-6.png" crc="3930677093" ref="магазин"/>
     <file name="u1024-6.png" crc="3930677093" ref="база-знаний"/>
   </folder>
-  <file name="index.html" crc="4220602077" seo="true" mt="1518790592800" redirect="true"/>
-  <file name="вступить-к-нам.html" crc="113753566" seo="true" mt="1518790686713" redirect="true"/>
-  <file name="устав.html" crc="64458743" seo="true" mt="1518790531349" redirect="true"/>
-  <file name="магазин.html" crc="4134509421" seo="true" mt="1518790531349" redirect="true"/>
-  <file name="база-знаний.html" crc="103817040" seo="true" mt="1518790708848" redirect="true"/>
+  <file name="index.html" crc="4088811147" seo="true" mt="1518790592800" redirect="true"/>
+  <file name="вступить-к-нам.html" crc="136838188" seo="true" mt="1518792656307" redirect="true"/>
+  <file name="устав.html" crc="4132365157" seo="true" mt="1518792670363" redirect="true"/>
+  <file name="магазин.html" crc="4253218080" seo="true" mt="1518792712665" redirect="true"/>
+  <file name="база-знаний.html" crc="4135008994" seo="true" mt="1518792739180" redirect="true"/>
 </manifest>
