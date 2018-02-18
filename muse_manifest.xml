@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="volturi.epizy.com" resolutions="1x" timestamp="1518967120517">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="3998460307" ref="база-знаний:устав:магазин:index:вступить-к-нам"/>
+    <file name="____-______.css" crc="3877978300" ref="база-знаний"/>
+    <file name="_____.css" crc="354552529" ref="устав"/>
+    <file name="_______.css" crc="38607691" ref="магазин"/>
+    <file name="index.css" crc="154305502" ref="index"/>
+    <file name="________-_-___.css" crc="178566865" ref="вступить-к-нам"/>
+  </folder>
+  <folder name="assets">
+    <file name="веб-сайт-1.muse" crc="86129437" seo="true" mt="1511583361000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:вступить-к-нам:устав:магазин:база-знаний"/>
+    <file name="museutils.js" crc="3803043152" ref="index:вступить-к-нам:устав:магазин:база-знаний"/>
+    <file name="whatinput.js" crc="86476730" ref="index:вступить-к-нам:устав:магазин:база-знаний"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:вступить-к-нам:устав:магазин:база-знаний"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:вступить-к-нам:устав:магазин:база-знаний"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:вступить-к-нам:устав:магазин:база-знаний"/>
+  </folder>
+  <folder name="images">
+    <file name="шаблон-a-favicon.ico" crc="3856740295" ref="index"/>
+    <file name="ты.jpg" crc="3779154161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u269-7.png" crc="3992268523" ref="index:вступить-к-нам:устав:магазин:база-знаний"/>
+    <file name="u1015-6.png" crc="3930677093" ref="вступить-к-нам"/>
+    <file name="u793-6.png" crc="3930677093" ref="магазин"/>
+    <file name="u1018-6.png" crc="3930677093" ref="база-знаний"/>
+  </folder>
+  <file name="index.html" crc="98684387" seo="true" mt="1518967070987" redirect="true"/>
+  <file name="вступить-к-нам.html" crc="4077021966" seo="true" mt="1518967070987" redirect="true"/>
+  <file name="устав.html" crc="3861660801" seo="true" mt="1518967070987" redirect="true"/>
+  <file name="магазин.html" crc="4052383112" seo="true" mt="1518967070987" redirect="true"/>
+  <file name="база-знаний.html" crc="508173005" seo="true" mt="1518967070987" redirect="true"/>
+</manifest>
